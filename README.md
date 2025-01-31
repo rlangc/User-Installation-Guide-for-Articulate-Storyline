@@ -36,77 +36,68 @@ Mac Users:
 1. Locate the Installer
     - Go to the folder where the installer was downloaded (usually in the Downloads folder).
     - The file name should be something like Articulate360Setup.exe.
-
 2. Run the Installer
     - Double-click on the Articulate360Setup.exe file to start the installation.
     - If prompted by User Account Control (UAC), click Yes to allow the installation.
-
 3. Follow the Installation Steps
     - Read and accept the End User License Agreement (EULA).
     - Click Next and follow the on-screen instructions.
     - Choose the installation location (default is recommended).
     - Click Install and wait for the process to complete.
-
 4. Complete the Installation
   - Once installed, click Finish to exit the setup.
 
 <h3>5. Activating Articulate Storyline</h3>
 
-
-Open Articulate 360
-After installation, launch Articulate 360 from the Start menu or desktop shortcut.
-
-Sign In to Your Account
-Use the same Articulate account credentials you used during the download process.
-
-Start Storyline
-In the Articulate 360 dashboard, find Storyline and click Launch.
-
-Activate the Software
-If you have a subscription, your activation should be automatic.
-If you have a trial version, you will see the number of days remaining.
-If you purchased a perpetual license, enter your product key when prompted.
+1. Open Articulate 360
+   - After installation, launch Articulate 360 from the Start menu or desktop shortcut
+2. Sign In to Your Account
+   - Use the same Articulate account credentials you used during the download process.
+3 Start Storyline
+    - In the Articulate 360 dashboard, find Storyline and click Launch.
+4. Activate the Software
+    - If you have a subscription, your activation should be automatic.
+    - If you have a trial version, you will see the number of days remaining.
+    - If you purchased a perpetual license, enter your product key when prompted.
 
 <h3>6. Updating Articulate Storyline</h3>
 
-
 To ensure you have the latest features and security updates:
-
-Open Articulate 360.
-Click on your profile picture (top right).
-Select Check for Updates.
-If an update is available, follow the prompts to install it.
+1. Open Articulate 360.
+2. Click on your profile picture (top right).
+3. Select Check for Updates.
+4. If an update is available, follow the prompts to install it.
 
 <h3>7. Troubleshooting Common Issues</h3>
 
-Issue: Installation Fails or Freezes
-Ensure your antivirus software is not blocking the installation.
-Run the installer as Administrator (Right-click → Run as Administrator).
-Ensure your system meets the minimum requirements.
+<h4>Issue: Installation Fails or Freezes</h4>
 
-Issue: Cannot Sign In to Articulate 360
+- Ensure your antivirus software is not blocking the installation
+- Run the installer as Administrator (Right-click → Run as Administrator)
+- Ensure your system meets the minimum requirements.
 
-Check your internet connection.
-Reset your password if needed by clicking Forgot Password on the sign-in page.
+<h4>Issue: Cannot Sign In to Articulate 360</h4>
 
-Issue: Activation Not Working
+- Check your internet connection
+- Reset your password if needed by clicking Forgot Password on the sign-in page
 
-Ensure your subscription is active.
-Log out and log back into your Articulate 360 account.
+<h4>Issue: Activation Not Working</h4>
+
+- Ensure your subscription is active
+- Log out and log back into your Articulate 360 account
 
 <h3>8. Uninstalling Articulate Storyline</h3>
 
-
 If you need to uninstall the software:
 
-Open Control Panel → Programs & Features.
-Find Articulate 360 in the list.
-Click Uninstall and follow the prompts.
+1. Open Control Panel → Programs & Features.
+2. Find Articulate 360 in the list.
+3. Click Uninstall and follow the prompts.
 
 <h3>9. Getting Support</h3>
 
+If you encounter issues not covered in this guide, visit the [Articulate Support Center](https://articulate.com/support):
 
-If you encounter issues not covered in this guide, visit the Articulate Support Center:
-https://articulate.com/support
-
-This guide provides a structured and easy-to-follow approach to installing Articulate Storyline. Let me know if you need any modifications!
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
