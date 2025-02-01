@@ -22,7 +22,7 @@ Mac Users:
 <h3>3. Downloading Articulate Storyline</h3>
 
 1. Go to the Official Website
-    - Open your web browser and visit the official [Articulate Website](https://articulate.com/):
+    - Open your web browser and visit the official [Articulate Website](https://articulate.com/)
 2. Sign in or Create an Account
     - Click on Sign In (top right corner) and enter your credentials
     - If you do not have an account, click Sign Up and follow the registration process
@@ -96,7 +96,7 @@ If you need to uninstall the software:
 
 <h3>9. Getting Support</h3>
 
-If you encounter issues not covered in this guide, visit the [Articulate Support Center](https://articulate.com/support):
+If you encounter issues not covered in this guide, visit the [Articulate Support Center](https://articulate.com/support).
 
 <h2></h2>
 <p align="center">
